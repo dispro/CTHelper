@@ -1,0 +1,16 @@
+D:\STUDING\4 sem\Объектно-ориентированное программирование\Курсач\CTHelper\CTHelper\bin\Debug\CTHelper.exe.config
+D:\STUDING\4 sem\Объектно-ориентированное программирование\Курсач\CTHelper\CTHelper\bin\Debug\CTHelper.exe
+D:\STUDING\4 sem\Объектно-ориентированное программирование\Курсач\CTHelper\CTHelper\bin\Debug\CTHelper.pdb
+D:\STUDING\4 sem\Объектно-ориентированное программирование\Курсач\CTHelper\CTHelper\obj\Debug\CTHelper.csprojAssemblyReference.cache
+D:\STUDING\4 sem\Объектно-ориентированное программирование\Курсач\CTHelper\CTHelper\obj\Debug\MainWindow.g.cs
+D:\STUDING\4 sem\Объектно-ориентированное программирование\Курсач\CTHelper\CTHelper\obj\Debug\App.g.cs
+D:\STUDING\4 sem\Объектно-ориентированное программирование\Курсач\CTHelper\CTHelper\obj\Debug\CTHelper_MarkupCompile.cache
+D:\STUDING\4 sem\Объектно-ориентированное программирование\Курсач\CTHelper\CTHelper\obj\Debug\CTHelper_MarkupCompile.lref
+D:\STUDING\4 sem\Объектно-ориентированное программирование\Курсач\CTHelper\CTHelper\obj\Debug\MainWindow.baml
+D:\STUDING\4 sem\Объектно-ориентированное программирование\Курсач\CTHelper\CTHelper\obj\Debug\CTHelper.g.resources
+D:\STUDING\4 sem\Объектно-ориентированное программирование\Курсач\CTHelper\CTHelper\obj\Debug\CTHelper.Properties.Resources.resources
+D:\STUDING\4 sem\Объектно-ориентированное программирование\Курсач\CTHelper\CTHelper\obj\Debug\CTHelper.csproj.GenerateResource.cache
+D:\STUDING\4 sem\Объектно-ориентированное программирование\Курсач\CTHelper\CTHelper\obj\Debug\CTHelper.exe
+D:\STUDING\4 sem\Объектно-ориентированное программирование\Курсач\CTHelper\CTHelper\obj\Debug\CTHelper.pdb
+D:\STUDING\4 sem\Объектно-ориентированное программирование\Курсач\CTHelper\CTHelper\obj\Debug\StylesAndTemplates.baml
+D:\STUDING\4 sem\Объектно-ориентированное программирование\Курсач\CTHelper\CTHelper\obj\Debug\App.baml

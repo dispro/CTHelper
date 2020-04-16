@@ -1,0 +1,35 @@
+﻿<Window x:Class="CTHelper.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CTHelper"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="980">
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <Image Source="cthelper_logo.png" Width="394" Height="241" Margin="0,55,0,0"></Image>
+            <TextBlock Text="Помощник подготовки к ЦТ по математике" FontSize="18" FontFamily="Franklin Gothic Demi" Margin="0,10,0,0" HorizontalAlignment="Center"></TextBlock>
+
+
+            <Grid HorizontalAlignment="Center" Margin="0,65,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="80"></ColumnDefinition>
+                    <ColumnDefinition Width="200"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="40"></RowDefinition>
+                    <RowDefinition Height="40"></RowDefinition>
+                </Grid.RowDefinitions>
+
+
+                <TextBlock Text="Логин" FontSize="24" FontFamily="Franklin Gothic Demi" Grid.Column="0" Grid.Row="0" VerticalAlignment="Center"></TextBlock>
+                <TextBox x:Name="loginUser" Style="{StaticResource InputControlStyle}"  Grid.Column="1" Grid.Row="0" Width="160" Height="30" Padding="5" BorderThickness="1" BorderBrush="Black" Background="#F6F6F6" HorizontalAlignment="Right"></TextBox>
+                <TextBlock Text="Пароль" FontSize="24" FontFamily="Franklin Gothic Demi" Grid.Column="0" Grid.Row="1" VerticalAlignment="Center"></TextBlock>
+                <PasswordBox x:Name="passwordUser" Grid.Column="1" Grid.Row="1"  Width="160" Height="30" Padding="5" BorderThickness="1" BorderBrush="Black" Background="#F6F6F6" HorizontalAlignment="Right"></PasswordBox>
+            </Grid>
+
+            <Button Content="ВОЙТИ" Width="230" Height="40" FontSize="14"></Button>
+        </StackPanel>
+    </Grid>
+</Window>
